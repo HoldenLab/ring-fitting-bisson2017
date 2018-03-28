@@ -5,7 +5,8 @@ INFORMATION
 This code was used to generate kymographs of FtsZ dynamics along circular
 profiles in vertically immobilized cells.
 This code is provided as is and without warranty to support reproducibility and open science.
-It is in-house code, undocumented, minimally commented, "warts and all"!
+It is in-house code, undocumented, minimally commented, and is not intended as a
+user-friendly or publicly supported tool.
 
 INSTALLATION/ USAGE
 exampleScript.m will run the basic analysis on the test file 'DATA ftsz sam1
